@@ -3,7 +3,7 @@ Introduction to Django and python
 
 Very basic - For learning purpose
 
-### Why should I learn it?
+## Why should I learn it?
 
 Learning Python can be extremely useful for penetration testers, and a simple understanding of its frameworks can be a key to success.
 
@@ -18,6 +18,7 @@ From Try Hack Me Course
 ## How does it work ? 
 
 `python3 manage.py runserver` 
+
 `https://IP/articles` or `https://IP/admin`
 
 -> https://docs.djangoproject.com/en/3.2/intro/tutorial01/
